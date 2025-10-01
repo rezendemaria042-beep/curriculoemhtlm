@@ -3,7 +3,7 @@
 Este repositório contém meu currículo desenvolvido em **HTML e CSS**.
 
 ## Como visualizar
-1. Baixe o arquivo `MariaEduardaRezendeLinhares.curriculo.html`
+1. Baixe o arquivo `https://github.com/rezendemaria042-beep/curriculoemhtlm.git`
 2. Abra-o no navegador de sua preferência.
 
 ---
