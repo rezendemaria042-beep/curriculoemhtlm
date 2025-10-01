@@ -1,0 +1,10 @@
+# Currículo Online
+
+Este repositório contém meu currículo desenvolvido em **HTML e CSS**.
+
+## Como visualizar
+1. Baixe o arquivo `MariaEduardaRezendeLinhares.curriculo.html`
+2. Abra-o no navegador de sua preferência.
+
+---
+✦ Feito por Maria Eduarda Rezende Linhares
